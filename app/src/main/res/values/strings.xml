@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Miwok</string>
+
+    <string name="button_lookup_word">Quick Lookup</string>
+    <string name="button_explore_words">Explore Words</string>
+    <string name="button_submit_translation">Submit Translation</string>
+    <string name="editText_translate_hint"> enter english word here</string>
+
+    <string name="button_submit_translate_word">Submit Word</string>
+    <string name="button_submit_play_word_recording">Play</string>
+    <string name="textView_word_pronunciation">Pronunciation:</string>
+    <string name="sample_translation"> Word goes here</string>
+    <string name="explore_title"> Popular Words</string>
+
+    <string name="explore_word_subtitle"> Word </string>
+    <string name="explore_frequency_subtitle"> Total lookup</string>
+    <string name="explore_submit_category_subtitle"> Choose word category</string>
+
+    <string name="submit_english_instruction"> enter translated word</string>
+    <string name="submit_record_word"> Record </string>
+    <string name="submit_play_recording"> Playback </string>
+    <string name="submit_submit_entry"> Submit </string>
+
+</resources>
