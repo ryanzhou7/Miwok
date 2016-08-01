@@ -1,7 +1,7 @@
 package com.ryanzhou.company.miwok;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class ExploreWordActivity extends AppCompatActivity {
 
@@ -12,4 +12,5 @@ public class ExploreWordActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_explore);
     }
+
 }
